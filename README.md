@@ -1,6 +1,5 @@
 # A simple keylogger for Windows, Linux 
 
-[Website](https://simple-keylogger.github.io) - [Keylogger wiki]
 
 Help support the project:
 
